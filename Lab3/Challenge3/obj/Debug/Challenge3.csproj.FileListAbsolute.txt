@@ -1,0 +1,7 @@
+D:\Tayyab\GBAF\Challenge3\bin\Debug\Challenge3.exe.config
+D:\Tayyab\GBAF\Challenge3\bin\Debug\Challenge3.exe
+D:\Tayyab\GBAF\Challenge3\bin\Debug\Challenge3.pdb
+D:\Tayyab\GBAF\Challenge3\obj\Debug\Challenge3.csproj.AssemblyReference.cache
+D:\Tayyab\GBAF\Challenge3\obj\Debug\Challenge3.csproj.CoreCompileInputs.cache
+D:\Tayyab\GBAF\Challenge3\obj\Debug\Challenge3.exe
+D:\Tayyab\GBAF\Challenge3\obj\Debug\Challenge3.pdb

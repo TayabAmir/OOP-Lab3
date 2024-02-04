@@ -1,0 +1,14 @@
+D:\Tayyab\GBAF\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Tayyab\GBAF\Challenge1\bin\Debug\Challenge1.exe
+D:\Tayyab\GBAF\Challenge1\bin\Debug\Challenge1.pdb
+D:\Tayyab\GBAF\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+D:\Tayyab\GBAF\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+D:\Tayyab\GBAF\Challenge1\obj\Debug\Challenge1.exe
+D:\Tayyab\GBAF\Challenge1\obj\Debug\Challenge1.pdb
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\bin\Debug\Challenge1.exe.config
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\bin\Debug\Challenge1.exe
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\bin\Debug\Challenge1.pdb
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\obj\Debug\Challenge1.exe
+D:\Tayyab\OOP-LAB\Lab2\Challenge1\obj\Debug\Challenge1.pdb
